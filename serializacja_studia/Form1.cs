@@ -29,6 +29,7 @@ namespace serializacja_studia
         public Form1()
         {
             InitializeComponent();
+
             resetValue(0);
         }
         private void createNewWolf()
