@@ -6,9 +6,9 @@ Serializacja to proces konwertowania obiektu na strumień bajtów do przechowywa
 	
 Serializacja JSON serializuje publiczne właściwości obiektu do ciągu, tablicy bajtów lub strumienia, który jest zgodny ze specyfikacją JSON RFC 8259. Aby kontrolować sposób JsonSerializer serializacji lub deserializuje wystąpienie klasy:
 
-### •	Korzystanie z JsonSerializerOptions obiektu
-### •	Stosowanie atrybutów z przestrzeni nazw System.Text.Json.Serialization do klas lub właściwości
-### •	Implementowanie konwerterów niestandardowych
+ •	Korzystanie z JsonSerializerOptions obiektu
+ •	Stosowanie atrybutów z przestrzeni nazw System.Text.Json.Serialization do klas lub właściwości
+ •	Implementowanie konwerterów niestandardowych
 
 
 
@@ -96,42 +96,42 @@ Serializacja JSON serializuje publiczne właściwości obiektu do ciągu, tablic
 
 # Przydatne metody
 
-### Metoda „createNewWolf” 
+## Metoda „createNewWolf” 
 ##### 	Tworzy nowy obiekt przeciwnika
 
 
-### Metoda „showPlayerAttackElements” 
+## Metoda „showPlayerAttackElements” 
 ##### 	Wyświetla informacje o trafieniach gracza
 
 
-### Metoda „showWolfAttackElements” 
+## Metoda „showWolfAttackElements” 
 ##### 	Wyświetla informacje o trafieniach przeciwnika
 
 
-### Metoda „resetValue” 
+## Metoda „resetValue” 
 ##### 	Resetuje wszystkie wartości
 
 
-### Metoda „reloadStats” 
+## Metoda „reloadStats” 
 ##### 	Uaktualnia i wyświetla statystyki gracza
 
 
 
-### Metoda „configurateStream” wraz z nadpisem
+## Metoda „configurateStream” wraz z nadpisem
 ##### 	Konfiguruje strumień danych do zapisu i odczytu
 
 
-### Metoda „saveObject” i „loadObject”
+## Metoda „saveObject” i „loadObject”
 ##### 	Serializuje i deserializuje obiekt gracza
 
 
-### Metoda „SetTimeout”  
+## Metoda „SetTimeout”  
 ##### 	Wywołuje inną metode po określonym czasie w milisekundach
 
 
-### Metoda „gameOver”  
+## Metoda „gameOver”  
 ##### 	Zakończenie gry 
 
 
-### Metoda „gameStart”  
+## Metoda „gameStart”  
 ##### 	Rozpoczęcie gry 
