@@ -97,41 +97,41 @@ Serializacja JSON serializuje publiczne właściwości obiektu do ciągu, tablic
 # Przydatne metody
 
 ### Metoda „createNewWolf” 
-	Tworzy nowy obiekt przeciwnika
+##### 	Tworzy nowy obiekt przeciwnika
 
 
 ### Metoda „showPlayerAttackElements” 
-	Wyświetla informacje o trafieniach gracza
+##### 	Wyświetla informacje o trafieniach gracza
 
 
 ### Metoda „showWolfAttackElements” 
-	Wyświetla informacje o trafieniach przeciwnika
+##### 	Wyświetla informacje o trafieniach przeciwnika
 
 
 ### Metoda „resetValue” 
-	Resetuje wszystkie wartości
+##### 	Resetuje wszystkie wartości
 
 
 ### Metoda „reloadStats” 
-	Uaktualnia i wyświetla statystyki gracza
+##### 	Uaktualnia i wyświetla statystyki gracza
 
 
 
 ### Metoda „configurateStream” wraz z nadpisem
-	Konfiguruje strumień danych do zapisu i odczytu
+##### 	Konfiguruje strumień danych do zapisu i odczytu
 
 
 ### Metoda „saveObject” i „loadObject”
-	Serializuje i deserializuje obiekt gracza
+##### 	Serializuje i deserializuje obiekt gracza
 
 
 ### Metoda „SetTimeout”  
-	Wywołuje inną metode po określonym czasie w milisekundach
+##### 	Wywołuje inną metode po określonym czasie w milisekundach
 
 
 ### Metoda „gameOver”  
-	Zakończenie gry 
+##### 	Zakończenie gry 
 
 
 ### Metoda „gameStart”  
-	Rozpoczęcie gry 
+##### 	Rozpoczęcie gry 
