@@ -12,7 +12,6 @@
 
 
 # Właściwości Kontrolek
-###### W aplikacji użyłem następujących kontrolek:
 
 ## 1.	Kontrolki przycisku (5 x Button):
 
