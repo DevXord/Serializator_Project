@@ -5,9 +5,9 @@
 ##  Serializacji JSON
 	
 ###### Serializacja JSON serializuje publiczne właściwości obiektu do ciągu, tablicy bajtów lub strumienia, który jest zgodny ze specyfikacją JSON RFC 8259. Aby kontrolować sposób JsonSerializer serializacji lub deserializuje wystąpienie klasy:
-Korzystanie z JsonSerializerOptions obiektu
-Stosowanie atrybutów z przestrzeni nazw System.Text.Json.Serialization do klas lub właściwości
-Implementowanie konwerterów niestandardowych
+		Korzystanie z JsonSerializerOptions obiektu
+		Stosowanie atrybutów z przestrzeni nazw System.Text.Json.Serialization do klas lub właściwości
+		Implementowanie konwerterów niestandardowych
 
 
 
