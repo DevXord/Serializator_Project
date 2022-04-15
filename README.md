@@ -1,15 +1,5 @@
 ﻿# Serializacji i deserializacja
 
-###### Serializacja to proces konwertowania obiektu na strumień bajtów do przechowywania obiektu lub przesyłania go do pamięci, bazy danych lub pliku. Jego głównym celem jest zapisanie stanu obiektu, aby można było go odtworzyć w razie potrzeby. Proces odwrotny jest nazywany deserializacji.
-
-##  Serializacji JSON
-	
-###### Serializacja JSON serializuje publiczne właściwości obiektu do ciągu, tablicy bajtów lub strumienia, który jest zgodny ze specyfikacją JSON RFC 8259. Aby kontrolować sposób JsonSerializer serializacji lub deserializuje wystąpienie klasy:
-		Korzystanie z JsonSerializerOptions obiektu
-		Stosowanie atrybutów z przestrzeni nazw System.Text.Json.Serialization do klas lub właściwości
-		Implementowanie konwerterów niestandardowych
-
-
 
 # Właściwości Kontrolek
 
